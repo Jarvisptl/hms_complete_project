@@ -19,7 +19,6 @@ This system manages patient appointments, medical records, billing, and provides
 - Vite
 - CSS
 
-- 
 ## Team Members
 
 - Rutvik Patel
